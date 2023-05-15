@@ -1,0 +1,207 @@
+body{
+    background-color: rgb(110, 110, 110);
+    margin:0 0;
+}
+
+
+
+nav{
+    background-color: aqua;
+    color: rgb(110, 110, 110);
+    text-align: center;
+}
+
+nav ul{
+    padding: 0;
+    margin: 0;
+}
+
+nav ul li{
+    display: inline-block;
+    list-style-type: none;
+    padding: 20px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav ul li a{
+    color: rgb(110, 110, 110);
+    text-decoration: none;
+}
+
+main h3 p{
+    background-color: aqua;
+    text-align: center;
+    color: rgb(110, 110, 110);
+    max-width: 200px;
+}
+
+main h3{
+    font-size: 35px;
+    padding: 20px;
+}
+
+main p{
+    font-size: 25px;
+    line-height: 140%;
+    padding: 20px;
+}
+
+main{
+    text-align: center;
+    max-width: 750px;
+    margin: auto;
+    padding: 20px;
+    color: rgb(110, 110, 110);
+    line-height: 140%;
+    margin: 20px;
+}
+
+h3{
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{  
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div.huincagiallo{
+    margin-top: -792px;
+    margin-left: 950px;
+}
+
+div.huincabianco{
+    margin-top: 15px;
+    margin-left: 940px;
+    margin-top: 5px;
+}
+
+div.huincapiscina{
+    margin-left: 1385px;
+    margin-top: -425px;
+}
+
+div.lahanfelicità{
+    margin-top: -480px;
+   margin-left: 950px;
+}
+
+div.lahanrabbia{
+    margin-top: -924px;
+    margin-left: 1336px;
+}
+
+div.lahanpianto{
+    margin-top: 3px;
+    margin-left: 950px;
+}
+
+div.lahanansia{
+    margin-top: 3px;
+    margin-left: 1336px;
+}
+
+div.karlverde{
+    margin-top: -580px;
+    margin-left: 950px;
+}
+
+div.karlmontagna{
+    margin-top: 10px;
+    margin-left: 950px;
+}
+
+div.karlfiori{
+    margin-top: 10px;
+    margin-left: 1335px;
+}
+div.karlblu{
+    margin-top: -930px;
+    margin-left: 1340px;
+}
+
+div.herrerauccello{
+    margin-left: 950px;
+    margin-top: -580px;
+}
+
+div.herrerauomo{
+    margin-left: 1350px;
+    margin-top: -462px;
+}
+
+div.herreragatto{
+    margin-left: 950px;
+    margin-top: 10px;
+}
+
+div.herreraelefante{
+    margin-left: 1340px;
+    margin-top: -460px;
+}
+
+div.linngiallo{
+    margin-left: 950px;
+    margin-top: -820px;
+}
+
+div.linnrosso{
+    margin-left: 1330px;
+    margin-top: -940px;
+}
+
+div.linnverde{
+    margin-left: 950px;
+    margin-top: 0px;
+}
+
+div.linnrosa{
+    margin-top: 0px;
+    margin-left: 1340px;
+}
+
+div.bocarosso{
+    margin-left: 950px;
+    margin-top: -750px;
+}
+
+div.bocanero{
+    margin-left: 1365px;
+    margin-top: -935px;
+}
+
+div.bocalibro{
+    margin-left: 950px;
+    margin-top: 10px;
+}
+
+div.bocateschio{
+    margin-left: 1320px;
+    margin-top: 10px
+}
+
+
+
+footer{
+    background-color: aqua;
+    max-width: 1920px
+}
+
+footer h3{
+    color: rgb(110, 110, 110);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    padding: 5;
+}
+
+
+ul li{
+    list-style-type: none;
+    color: rgb(110, 110, 110);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    text-align: center;
+}

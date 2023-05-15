@@ -1,0 +1,102 @@
+body{
+    background-color: rgb(110, 110, 110);
+    margin:0;
+}
+
+nav{
+    background-color: aqua;
+    color: rgb(110, 110, 110);
+    text-align: center;
+}
+
+nav ul{
+    padding: 0;
+    margin: 0;
+}
+
+nav ul li{
+    display: inline-block;
+    list-style-type: none;
+    padding: 20px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav ul li a{
+    color: rgb(110, 110, 110);
+    text-decoration: none;
+}
+
+
+
+header h1{
+    text-align: center;
+    margin-top: 40px;
+    color: rgb(110, 110, 110);
+    font-size: 90px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    background-color: aqua;
+    background-position: center;
+    width: 100%;
+    height: 100px;
+    padding: 20px;
+    }
+    
+main div.elenco{
+    color: rgb(110, 110, 110);
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    background-color: aqua;
+    width: 500px;
+    height: 450px;
+    list-style-position: inside;
+    padding: 5px;
+    line-height: 140%;
+    margin-top: 20px;
+}
+
+div ul li a{
+    color: rgb(110, 110, 110);
+    text-decoration: none;
+}
+
+main p{
+    text-align: left;
+    line-height: 140%;
+    color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    margin-right: 45px;
+    margin-left: 750px;
+    margin-top: -460px;
+    font-size: 40px
+    
+}
+
+footer{
+    background-color: aqua;
+    margin-top: 140px;
+    width: 100%;
+    background-position: center;
+}
+
+footer h3{
+    color: rgb(110, 110, 110);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    padding: 5px;
+    margin-top: 10px;
+}
+
+
+ul li{
+    list-style-type: none;
+    color: rgb(110, 110, 110);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    text-align: left;
+    line-height: 200%;
+}
